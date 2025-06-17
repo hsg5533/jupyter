@@ -1,0 +1,17 @@
+Air,Name,Distribution
+Test,Engineering,Research and Development
+Test,ToolDesign,Research and Development
+Test,Sales,Sales and Marketing
+Test,Marketing,Sales and Marketing
+Street,Purchasing,Inventory Management
+Street,Research and Development,Research and Development
+Street,Production,Manufacturing
+Street,Production Control,Manufacturing
+Street,Human Resources,Executive General and Administration
+City,Finance,Executive General and Administration
+City,Information Services,Executive General and Administration
+City,Document Control,Quality Assurance
+City,Quality Assurance,Quality Assurance
+City,Facilities and Maintenance,Executive General and Administration
+City,Shipping and Receiving,Inventory Management
+City,Executive,Executive General and Administration
