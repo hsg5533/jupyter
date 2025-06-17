@@ -23,7 +23,7 @@ jupyter lab
 
 1. 가상환경 활성화
 2. Jupyter Notebook 실행
-3. `notebooks/` 폴더의 `.ipynb` 파일을 열고 순서대로 학습 및 실습
+3. `.ipynb` 파일을 열고 순서대로 학습 및 실습
 
 ## 기여 방법
 
